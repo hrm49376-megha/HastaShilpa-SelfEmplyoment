@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hasta-Shilpa</string>
+    <string name="app_title">Hasta-Shilpa</string>
+    <string name="app_subtitle">Design Bridge for Bamboo Artisans</string>
+    <string name="product_name">Bamboo Laptop Stand</string>
+    <string name="product_price">₹380 - ₹520</string>
+    <string name="btn_view_blueprint">View Blueprint</string>
+    <string name="btn_open_tracker">Open Material Stock</string>
+    <string name="btn_open_calculator">Open Price Calculator</string>
+    <string name="btn_open_marketplace">Open Marketplace</string>
+    <string name="blueprint_title">Blueprint View</string>
+    <string name="icon_blueprint" translatable="false">📐</string>
+    <string name="width_label">Width: 30cm</string>
+    <string name="height_label">Height: 15cm</string>
+    <string name="depth_label">Depth: 20cm</string>
+    <string name="btn_download_pdf">Download Blueprint PDF</string>
+    <string name="tracker_title">Material Tracker</string>
+    <string name="tracker_description">Track your bamboo raw materials and stock levels here.</string>
+    <string name="icon_tracker" translatable="false">📊</string>
+    <string name="marketplace_title">Marketplace</string>
+    <string name="marketplace_description">Browse and buy bamboo products from artisans.</string>
+    <string name="icon_marketplace" translatable="false">🏪</string>
+    <string name="hint_bamboo_poles">Number of Bamboo Poles</string>
+    <string name="hint_hours_worked">Hours Worked</string>
+    <string name="btn_calculate_price">Calculate Price</string>
+    <string name="product_image_description">Bamboo Product Image</string>
+    <string name="suggested_price">Suggested Price: ₹%1$d</string>
+</resources>
